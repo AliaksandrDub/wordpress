@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-02-10T07:39:02.157743821Z"
+entries:
+  wordpress:
+  - apiVersion: v2
+    appVersion: v0.0.1
+    created: "2023-02-10T07:47:48.921964902Z"
+    description: A Helm chart for Kubernetes
+    digest: 0243bdbf3ed019db5bad6cffb789d087b5d7faffeaf5db6e3404be5af2771f31
+    name: wordpress
+    type: application
+    urls:
+    - https://.github.io/my_project/wordpress-v0.0.1.tgz
+    version: v0.0.1
+generated: "2023-02-10T07:47:48.921156103Z"
