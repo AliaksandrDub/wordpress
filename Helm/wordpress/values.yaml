@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: aliaksandrdub/wordpress_project
+  repository: aliaksandrdub/wordpressproject
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1.0.2"
 
