@@ -13,6 +13,6 @@ spec:
     - ReadWriteMany
   persistentVolumeReclaimPolicy: Recycle
   nfs:
-    path: /mnt/IT-Academy/nfs-data/sa2-22-22/dubovik/
+    path: /mnt/IT-Academy/nfs-data/sa2-22-22/dubovik/wordpress
     server: 192.168.37.105
 
